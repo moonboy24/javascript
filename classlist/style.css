@@ -1,0 +1,26 @@
+.myButtons{
+    font-size: 4rem;
+    border: none;
+    margin: 10px;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+.enabled{
+    background-color: blue;
+    color: white;
+}
+
+.hover{
+    background-color: pink;
+    color: black;
+}
+
+.disabled{
+    background-color: hsl(120, 100%, 25%);
+    color: white;
+}
+
+/* #hello{
+    font-size: 5rem;
+} */

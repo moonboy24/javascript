@@ -1,0 +1,6 @@
+{
+    "name" : "sidney",
+    "age" : 25,
+    "isEmployed" : true ,
+    "hobbies" : ["jelly fishing" , "gaming"]
+}
